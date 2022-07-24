@@ -847,7 +847,7 @@
    color: transparent;
    width: 200px;
    height:142px;
-   background: url("assets/img/ossec.png") no-repeat center;
+   background: url("../assets/img/ossec.png") no-repeat center;
    background-size: 200px 142px;
    -moz-transition: all 0.5s ease-in-out;
    -o-transition: all 0.5s ease-in-out;
@@ -1156,7 +1156,7 @@
   */
  
  #intro {
-   background: #14181E url(assets/img/teams.jpg) no-repeat center;
+   background: #14181E url(../assets/img/teams.jpg) no-repeat center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    background-size: cover;
@@ -1927,7 +1927,7 @@ flex-wrap: wrap;
  .footer-main .footer-logo {
    width: 200px;
    height: 62px;
-   background: url("assets/img/ossec.png") no-repeat center;
+   background: url("../assets/img/ossec.png") no-repeat center;
    background-size: 200px 142px;
    margin: -.6rem 0 2.1rem -.3rem;
    display: block;
